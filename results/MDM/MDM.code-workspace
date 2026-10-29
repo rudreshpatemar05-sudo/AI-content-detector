@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../hc3_ai_detection"
+		},
+		{
+			"name": "ai-content-detector",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
